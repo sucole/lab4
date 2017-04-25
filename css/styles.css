@@ -10,3 +10,13 @@
 .if img {
 	width: 400px;
 }
+
+p1{
+	color:white;
+	text-align:right;
+	height:200px;
+}
+
+h1 {
+	color:orange;
+	text-align:left;
